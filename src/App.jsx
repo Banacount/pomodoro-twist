@@ -10,8 +10,8 @@ let isInit = true;
 let ringtoneReloaded = true; 
 let isPause = true;
 let time = {
-  sec: 4,
-  min: 0,
+  sec: 0,
+  min: 25,
 };
 const listeners = new Set();
 
